@@ -61,4 +61,4 @@ python3 json_bot.py
 
 ## Автор
 
-Герман Дольников ([@dolnikov](https://t.me/dolnikov))
+Алия Гайнуллина ([kamal.alia@yandex.ru](https://t.me/@AliyalGai))
